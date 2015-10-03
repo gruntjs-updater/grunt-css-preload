@@ -1,0 +1,36 @@
+{
+  "name": "grunt-css-preload",
+  "description": "Automatically adds a preload rule to your stylesheets.",
+  "license": "MIT",
+  "version": "1.0.0",
+  "homepage": "https://github.com/arcanis/grunt-css-preload",
+  "author": {
+    "name": "Maël Nison",
+    "email": "nison.mael@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arcanis/grunt-css-preload.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arcanis/grunt-css-preload/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/arcanis/grunt-css-preload/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "dependencies": {
+    "gonzales-pe": "^2.0.2"
+  }
+}
